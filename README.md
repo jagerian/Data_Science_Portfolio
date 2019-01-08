@@ -7,12 +7,10 @@ Tools
   - **Machine Learning**: scikit-learn, TensorFlow, keras
   
   ## Contents
-- ## Machine Learning
+- ## Major Projects
     
-- ## Data Analysis and Visualization (Python Programming)
-     
 - ## Minor Projects
- 
+      
 If you enjoyed what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, feel free to contact me on:
     - [LinkedIn](https://www.linkedin.com/)
   
