@@ -8,7 +8,7 @@ Tools
   
   ## Contents
 - ## Major Projects
-    
+     Predictive Modeling for Car Insurance Cold Calls
 - ## Minor Projects
       
 If you enjoyed what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, feel free to contact me on:
