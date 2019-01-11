@@ -8,7 +8,9 @@ Tools
   
   ## Contents
 - ## Major Projects
-     - [Predictive Modeling for Car Insurance Cold Calls](https://github.com/jagerian/Data_Science_Portfolio/blob/master/Predictive%20Modeling%20for%20Car%20Insurance%20Cold%20Calls/Predictive%20Modeling%20for%20Car%20Insurance%20Cold%20Calls_10Jan2018.ipynb): Decision making model for selecting the priority of the potential prospects.
+     - [Predictive Modeling for Car Insurance Cold Calls](https://github.com/jagerian/Data_Science_Portfolio/blob/master/Predictive%20Modeling%20for%20Car%20Insurance%20Cold%20Calls/Predictive%20Modeling%20for%20Car%20Insurance%20Cold%20Calls_10Jan2018.ipynb): Decision making model for selecting the priority of the prospects.
+     Predictive Models to correctly classify the unknown label inputs, the models are trained using the labeled outputs so that it can learn from them and correctly classify the non labeled items. There are a lot of Classification Predictor Algorithms and in this case I have utilized most of the classification algorithms related to our problem.
+
 
      
 - ## Minor Projects
