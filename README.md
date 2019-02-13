@@ -21,6 +21,7 @@ Tools
 
      
 - ## Minor Projects
+     - [Movie Recommendation System (Language: Python)](https://github.com/jagerian/Data_Science_Portfolio/blob/master/Movie%20Recommendation%20System/Movie%20Recommendation%20System.ipynb): The goal of this project is to build a movie recommendation system using item based collaborative filtering.
       
 If you enjoyed what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, feel free to contact me on:
     - [LinkedIn](https://www.linkedin.com/in/jayden-ku/)
